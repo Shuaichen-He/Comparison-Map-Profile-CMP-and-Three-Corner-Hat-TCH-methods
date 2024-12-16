@@ -2,7 +2,7 @@
 
 ## The code used in my paper(Uncertainty Analysis and Consistency Assessment of Evaporation Data in the Greater Mekong Subregion -- Journal Of Hydrometeorology Under Review) is made public here, hoping to save time for others in their research and studies.
 
-*The TCH method, proposed by Tavella and Premoli (1993).*
+*The Three Corner Hat (TCH) method, proposed by Tavella and Premoli (1993).*
 
 *Comparison of Map Profile (CMP) method was proposed by Gaucherel et al. (2007) to quantify the magnitude and distribution area of differences between image data.*
 

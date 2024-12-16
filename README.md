@@ -1,6 +1,6 @@
 # TCH-CMP
 
-## The code used in my paper(Uncertainty Analysis and Consistency Assessment of Evaporation Data in the Greater Mekong Subregion -- Journal Of Hydrometeorology) is made public here, hoping to save time for others in their research and studies.
+## The code used in my paper(Uncertainty Analysis and Consistency Assessment of Evaporation Data in the Greater Mekong Subregion -- Journal Of Hydrometeorology Under Review) is made public here, hoping to save time for others in their research and studies.
 
 *The TCH method, proposed by Tavella and Premoli (1993).*
 

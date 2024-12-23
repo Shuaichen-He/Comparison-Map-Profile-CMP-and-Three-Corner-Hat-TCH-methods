@@ -1,6 +1,12 @@
 # TCH-CMP
 
-## The code used in my paper(Uncertainty Analysis and Consistency Assessment of Evaporation Data in the Greater Mekong Subregion -- Journal Of Hydrometeorology Under Review) is made public here, hoping to save time for others in their research and studies.
+## Uncertainty Analysis and Consistency Assessment of Evaporation Data in the Greater Mekong Subregion -- Journal Of Hydrometeorology Under Review
+
+In our paper, we evaluated the consistency and relative uncertainty of four evaporation datasets (ERA5-Land, FLUXCOM, GLDAS, GLEAM) in the Greater Mekong Subregion (GMS) using Comparison Map Profile (CMP) and Three Corner Hat (TCH) methods. We have made our Python code publicly available to assist other researchers.
+
+The *.npy data uploaded with the *.py files are examples, where m*.npy represents the multi-year averages of the four datasets in the GMS region, which can be used to calculate spatial similarity using the CMP method. The CMP method has two types based on different metrics calculated in the window: Distance and Cross-Correlation (CC), with the CC method being used in the study.
+
+The files named directly after the four datasets contain monthly average evaporation values, used for TCH calculation. TCH has multiple constraint condition methods for solving, with two types included in the code. The study used the H constraint condition for solving. For specific meanings, please refer to the reference literature or the data and methods section of the paper.
 
 *The Three Corner Hat (TCH) method, proposed by Tavella and Premoli (1993).*
 
